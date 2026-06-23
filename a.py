@@ -8,7 +8,7 @@ def draw_art():
     artist = turtle.Turtle()
     artist.speed(0)
     colors = ["red", "yellow", "blue", "green"]
-
+dvfbdgnfh
     for i in range(180):
         artist.color(colors[i % 4])
         artist.forward(i * 2)
