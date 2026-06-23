@@ -1,4 +1,4 @@
-# Bunarsa aylanib turadi.
+dvfn# Bunarsa aylanib turadi.
 from turtle import *
 import colorsys
 
