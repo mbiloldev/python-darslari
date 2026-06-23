@@ -1,7 +1,7 @@
 import arcade
 SCREEN_WIDTH = 600
 SCREEN_HEIGHT = 600
-arcade.open_window(SCREEN_WIDTH, SCREEN_HEIGHT, "@Pythonuz09 dan stiker")
+arcade.open_window(SCREEN_WIDTH, SCREEN_HEIGHT, "@mretseptbot dan stiker")
 arcade.set_background_color(arcade.color.WHITE)
 arcade.start_render()
 x = 300
