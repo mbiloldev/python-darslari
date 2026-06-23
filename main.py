@@ -3,7 +3,7 @@ SCREEN_WIDTH = 600
 SCREEN_HEIGHT = 600
 arcade.open_window(SCREEN_WIDTH, SCREEN_HEIGHT, "@Pythonuz09 dan stiker")
 arcade.set_background_color(arcade.color.WHITE)hyjhm
-arcade.start_render()
+arcade.start_render()hjyu
 x = 300
 y = 300
 radius = 200rthryj
