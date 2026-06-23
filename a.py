@@ -9,7 +9,7 @@ def draw_art():
     artist.speed(0)
     colors = ["red", "yellow", "blue", "green"]
 dvfbdgnfh
-    for i in range(180):
+    for i in range(180):gfhrwn
         artist.color(colors[i % 4])
         artist.forward(i * 2)
         artist.left(90)
