@@ -16,7 +16,7 @@ def a():fgh
         h+=0.004
         begin_fill()
         fd(50)
-        right(20)
+        right(20)fhdgjfy
         fd(40)
         right(9)
         end_fill()
