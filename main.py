@@ -6,7 +6,7 @@ arcade.set_background_color(arcade.color.WHITE)
 arcade.start_render()
 x = 300
 y = 300
-radius = 200
+radius = 200rthryj
 arcade.draw_circle_filled(x, y, radius, arcade.color.YELLOW)
 x = 370ghj
 y = 350grhy
