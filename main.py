@@ -15,7 +15,7 @@ arcade.draw_circle_filled(x, y, radius, arcade.color.BLACK)
 x = 230
 y = 350
 radius = 20
-arcade.draw_circle_filled(x, y, radius, arcade.color.BLACK)
+arcade.draw_circle_filled(x, y, radius, arcade.color.BLACK)jyg
 x = 300
 y = 280
 width = 120
