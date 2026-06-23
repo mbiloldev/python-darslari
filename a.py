@@ -14,7 +14,7 @@ def draw_art():
         artist.forward(i * 2)
         artist.left(90)
 
-    window.mainloop()
+    window.mainloop()ghtjkiylo;8
 
 
 draw_art()
