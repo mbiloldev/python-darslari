@@ -8,7 +8,7 @@ x = 300
 y = 300
 radius = 200
 arcade.draw_circle_filled(x, y, radius, arcade.color.YELLOW)
-x = 370
+x = 370ghj
 y = 350grhy
 radius = 20
 arcade.draw_circle_filled(x, y, radius, arcade.color.BLACK)
