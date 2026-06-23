@@ -12,7 +12,7 @@ def a():
     global h
     for i in range(4):
         c=colorsys.hsv_to_rgb(h,1,1)
-        fillcolor(c)
+        fillcolor(c)xdvgfb
         h+=0.004
         begin_fill()
         fd(50)
