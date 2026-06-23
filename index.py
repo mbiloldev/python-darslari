@@ -8,7 +8,7 @@ h=0.7
 c=colorsys.hsv_to_rgb(h,1,1)
 pensize(4)
 hgtj
-def a():fgh
+def a():fghghthmj 
     global h
     for i in range(4):
         c=colorsys.hsv_to_rgb(h,1,1)
